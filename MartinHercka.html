@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+      <meta charset="utf-8">
+        <link rel="stylesheet" href="tabulka.css">
+   <script type="text/javascript">
+     function showAlert()
+     {
+
+      var fname;
+      var sname;
+      fname=document.getElementById('firstname').value;
+      sname=document.getElementById('surname').value;
+document.getElementById("output").innerHTML= "Hello "+fname+" "+sname+" ! You pressed button OK";
+   
+    // alert("Hello "+fname+" "+sname+"  You pressed button OK");
+
+     }
+
+     function deleteOutput() {
+       document.getElementById("output").innerHTML="";
+     }
+
+     function print(argument) {
+       // body...
+     }
+   </script>
+    </head>
+    <body>
+
+      <form>
+
+   <table border="1" width="80%">
+  
+<tr>
+  <td>Meno: </td>  
+  <td><input type="firstname" name="meno" id="firstname"></td>
+</tr>
+
+  <tr>
+  <td>Priezvisko: </td>  
+  <td><input type="surname" name="priezvisko" id="surname"></td>
+
+  </tr>
+
+  <tr>
+  <td><button type="reset" onclick="deleteOutput()">Reset</button></td>  
+  <td><button type="button"onclick="showAlert()">OK</button></td>
+
+  </tr>
+
+    
+
+
+
+
+
+
+  
+        
+</table>
+
+</form>
+<DIV id="output"></DIV>
+
+</body>
+</html>
