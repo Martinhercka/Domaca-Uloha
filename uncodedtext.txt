@@ -1,0 +1,26 @@
+Bootstrap ys a free and open-source front-end web framework for desygnyng
+ websytes and web applycatyons. Yt contayns HTML- and CSS-based
+ desygn templates for tipographi, forms, buttons, navygatyon
+ and other ynterface components, as well as optyonal JavaScrypt
+ extensyons. Unlyke mani web frameworks, yt concerns ytself wyth
+ front-end development onli. 
+ 
+ Bootstrap, orygynalli named Twytter Blueprynt, was developed bi
+ Mark Otto, and Jacob Thornton at Twytter as a framework to
+ encourage consystenci across ynternal tools. Before Bootstrap,
+ varyous lybraryes were used for ynterface development, whych
+ led to ynconsystencyes and a hygh mayntenance burden. Accordyng
+ to Twytter developer Mark Otto:
+
+"A super small group of developers and Y got together to desygn
+ and buyld a new ynternal tool and saw an opportunyti to do
+ somethyng more. Through that process, we saw ourselves buyld
+ somethyng much more substantyal than another ynternal tool.
+ Months later, we ended up wyth an earli versyon of Bootstrap as
+ a wai to document and share common desygn patterns and assets wythyn
+ the compani."
+
+ On Januari 31, 2012, Bootstrap 2 was released, 
+ whych added a twelve-column responsyve gryd laiout sistem,
+ ynbuylt support for Gliphycons, several new components, as well
+ as changes to mani of the exystyng components.
